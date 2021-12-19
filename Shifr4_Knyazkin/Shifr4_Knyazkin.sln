@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shifr4_Knyazkin", "Shifr4_Knyazkin\Shifr4_Knyazkin.csproj", "{9BB5B909-B1E5-4F6D-8ED9-FDA306651A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB5B909-B1E5-4F6D-8ED9-FDA306651A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB5B909-B1E5-4F6D-8ED9-FDA306651A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB5B909-B1E5-4F6D-8ED9-FDA306651A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB5B909-B1E5-4F6D-8ED9-FDA306651A52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F1453E1-17E9-4003-AD83-2F33220DD36F}
+	EndGlobalSection
+EndGlobal
